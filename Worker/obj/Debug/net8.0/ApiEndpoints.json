@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Worker.Controllers.WorkerController",
+    "Method": "AddAgendamento",
+    "RelativePath": "api/Worker",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
